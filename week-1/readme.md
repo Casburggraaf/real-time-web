@@ -11,9 +11,13 @@ It lets you chat in real time with other people. A Future update will enable the
 
 ## How to install
 
-  npm install
+    npm install
   
 ## how to run
 
-  npm run dev
+    npm run dev
+
+
+    
+
 
